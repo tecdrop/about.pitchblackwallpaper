@@ -1,0 +1,22 @@
+---
+---
+
+<div class="container-fluid">
+
+    <div class="tqc-quotes">
+        {% for apps in site.data.apps %}
+            {% assign app = apps[1] %}
+
+            {% for quote in app.reviews.quotes %}
+                {% include quote.html type="review" default_url=app.reviews.defaults.url %}
+            {% endfor %}
+
+            {% for quote in app.testimonials.quotes %}
+                {% include quote.html type="testimonial" default_url=app.testimonials.defaults.url %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+    
+</div>
+    
+

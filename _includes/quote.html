@@ -1,0 +1,10 @@
+<blockquote class="tqc-quote tqc-{{ include.type }} {% if quote.fav %}tqc-fav{% endif %}">
+    <div class="container">
+        <q>{{ quote.quote }}</q>
+        <cite>
+            <a class="tqc-link" href="{{ quote.url | default: include.default_url }}" target="_blank">
+                {{ quote.cite }}
+            </a>
+        </cite>
+    </div>
+</blockquote>
