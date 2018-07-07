@@ -1,22 +1,26 @@
 ---
 ---
 
-<div class="container-fluid">
+
+{% for apps in site.data.apps %}
+    {% assign app = apps[1] %}
 
     <div class="tqc-quotes">
-        {% for apps in site.data.apps %}
-            {% assign app = apps[1] %}
+        {% for quote in app.reviews.quotes %}
+            {% include quote.html type="review" default_url=app.reviews.defaults.url %}
+        {% endfor %}
 
-            {% for quote in app.reviews.quotes %}
-                {% include quote.html type="review" default_url=app.reviews.defaults.url %}
-            {% endfor %}
-
-            {% for quote in app.testimonials.quotes %}
-                {% include quote.html type="testimonial" default_url=app.testimonials.defaults.url %}
-            {% endfor %}
+        {% for quote in app.testimonials.quotes %}
+            {% include quote.html type="testimonial" default_url=app.testimonials.defaults.url %}
         {% endfor %}
     </div>
+
+    <div class="container">
+        {% for extra in app.extras.items %}
+            {% include extra.html %}
+        {% endfor %}
+    </div>
+{% endfor %}
     
-</div>
     
 
