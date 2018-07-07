@@ -41,60 +41,139 @@ quotes:
   - quote: Excellent app. Just what the doctor ordered
     cite: ★★★★★ JAMIE J on Google Play
     date: 2018-04-07
+    fav: true
     organized: true
 
-
-
-
+  - quote: "Q: What dark themes are you using right now? A: Pitch Black Wallpaper by Tecdrop. No ads. Free. Recommended."
+    cite: IanThomas on Android Central Forums
+    url: https://forums.androidcentral.com/showthread.php?t=876432&p=6196400&viewfull=1#post6196400
+    date: 2018-03-19
+    organized: true
 
   - quote: Simple and perfect
-    cite: Jeff Pauliks about Pitch Black Wallpaper
+    cite: ★★★★★ Jeff Pauliks on Google Play
     date: 2018-03-06
+    organized: true
 
   - quote: Excellent! Best application of its kind, practical like no other.
-    cite: Heron Domingues about Pitch Black Wallpaper, in Portuguese
+    cite: ★★★★★ Heron Domingues on Google Play, in Portuguese
     date: 2018-02-06
     fav: true
+    organized: true
+
+  - quote: Great for the eyes and for the battery! <i data-emoji>👍</i>
+    cite: ★★★★★ Leone Santambrogio on Google Play, in Italian
+    date: 2018-02-03
+    organized: true
+
+  - quote: Perfect, no BS
+    cite: ★★★★★ Jeanne Vaguelsy on Google Play
+    date: 2018-01-29
+    organized: true
 
   - quote: Just one word   Amazing
-    cite: shahnawaz ahmed about Pitch Black Wallpaper
+    cite: ★★★★★ shahnawaz ahmed on Google Play
     date: 2018-01-16
     fav: true
+    organized: true
 
   - quote: Super simple and works perfectly. Hardly takes up any storage on my phone.
-    cite: Joyce Xiao about Pitch Black Wallpaper
+    cite: ★★★★★ Joyce Xiao on Google Play
     date: 2018-01-12
+    organized: true
 
-  - quote: Awesome<i data-emoji> 🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
-    cite: Michael Himko about Pitch Black Wallpaper
+  - quote: It's really very good ! My ZenFone was fast, but now it's even faster :) thanks guys
+    cite: ★★★★★ Steven Cooper on Google Play
+    date: 2018-01-12
+    organized: true
+
+  - quote: Awesome <i data-emoji>🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
+    cite: ★★★★★ Michael Himko on Google Play
     date: 2017-12-19
-    fav: true
+    organized: true
 
   - quote: This one is so cool.
-    cite: Mar Nitsuga about Pitch Black Wallpaper
+    cite: ★★★★★ Mar Nitsuga on Google Play
     date: 2017-12-04
+    organized: true
 
   - quote: Simple, fast and perfect.
-    cite: Marc A. Renton about Pitch Black Wallpaper, in German
+    cite: ★★★★★ Marc A. Renton on Google Play, in German
     date: 2017-09-08
+    organized: true
+
+  - quote: Top        <i data-emoji>😍😍   😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍   😍😍😍😍       😍😍      😍😍😍     😍😍😍</i>
+    cite: ★★★★★ HD Droz on Google Play
+    date: 2017-09-07
+    organized: true
+
+  - quote: Well it's black <i data-emoji>😊</i> I didn't know my screen could be so black... really good thanks.
+    cite: ★★★★★ Neil Bedford on Google Play
+    date: 2017-09-07
+    organized: true
 
   - quote: Wow 5 stars. Just for doing exactly what they said it was gonna do
-    cite: playhouserage about Pitch Black Wallpaper
+    cite: ★★★★★ playhouserage on Google Play
     date: 2017-08-31
+    organized: true
+
+  - quote: Loooooovvvvvvvveeeeeeeee
+    cite: ★★★★★ Anonymous on Google Play
+    date: 2017-08-21
+    organized: true
+
+  - quote: Total black!!! Looks great!!!
+    cite: ★★★★★ kyriakos moutsatsos on Google Play
+    date: 2017-08-15
+    organized: true
 
   - quote: Brilliant simple app that does exactly what it says and couldn't be easier to use
-    cite: Nottheusualtoday Levy about Pitch Black Wallpaper
+    cite: ★★★★★ Nottheusualtoday Levy on Google Play
     date: 2017-08-12
+    organized: true
 
   - quote: Best app ever. Super light 21kb, no ads, free, and does what it say.
-    cite: Alessio Fedrizzi about Pitch Black Wallpaper
+    cite: ★★★★★ Alessio Fedrizzi on Google Play
     date: 2017-08-12
+    organized: true
 
   - quote: Must have App. I've got several funky live wallpapers, but they are all battery vampires. I pop this on whenever I need to save battery, it's freaking brilliant
-    cite: Anonymous about Pitch Black Wallpaper
+    cite: ★★★★★ Anonymous on Google Play
     date: 2017-08-10
+    organized: true
 
-  - quote: Excellent wallpaper for saving battery<i data-emoji> 🔋</i>. Good job dev and no silly permissions
+  - quote: Very gorgeous color
+    cite: ★★★★★ Sachin Kharate on Google Play
+    date: 2017-08-05
+    organized: true
+
+  - quote: The screen background turned black. One simple button. No ads. Show!
+    cite: ★★★★★ Bruno Belo da Cunha on Google Play, in Portuguese
+    date: 2017-08-04
+    organized: true
+
+  - quote: This is what I'm looking for my entire android life. <i data-emoji>♥</i>
+    cite: ★★★★★ Shony M J on Google Play
+    date: 2017-07-30
+    fav: true
+    organized: true
+
+  - quote: Good black. Black is good.
+    cite: ★★★★★ Surya Utama on Google Play
+    date: 2017-07-15
+    organized: true
+
+  - quote: Black is cool
+    cite: ★★★★★ juha hätinen on Google Play
+    date: 2017-07-04
+    organized: true
+
+  - quote: Like
+    cite: ★★★★★ Play Abox on Google Play
+    date: 2017-07-01
+    organized: true
+
+  - quote: Excellent wallpaper for saving battery <i data-emoji>🔋</i>. Good job dev and no silly permissions
     cite: John Wooduck Hunt about Pitch Black Wallpaper
     date: 2017-06-27
 
