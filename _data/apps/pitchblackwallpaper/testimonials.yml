@@ -2,6 +2,51 @@ defaults:
   url: https://play.google.com/store/apps/details?id=com.tecdrop.pitchblackwallpaper
 
 quotes:
+  - quote: Awesome pitch black wallpaper
+    cite: ★★★★★ Petu Zondi on Google Play
+    date: 2018-06-20
+    organized: true
+
+  - quote: Excellent. Ultra compact ... Gives a very flattering look on a low-end screen.
+    cite: ★★★★★ Anonymous on Google Play, in French
+    date: 2018-06-16
+    organized: true
+
+  - quote: "One...word: Goth <i data-emoji>😄</i>"
+    cite: ★★★★★ DMHQ - Administration on Google Play
+    date: 2018-06-10
+    organized: true
+
+  - quote: Delivers what it promises, excellent app.
+    cite: ★★★★★ carlos Borba on Google Play, in Portuguese
+    date: 2018-06-10
+    organized: true
+
+  - quote: I love it
+    cite: ★★★★★ Llud Apollo on Google Play
+    date: 2018-06-01
+    organized: true
+
+  - quote: This is the only wallpaper I use! I may change icons, or clocks, or whatever; but my wallpaper is always PITCH BLACK!
+    cite: ★★★★★ Joey Barnes on Google Play
+    date: 2018-05-15
+    fav: true
+    organized: true
+
+  - quote: Black Power!
+    cite: ★★★★★ Anonymous on Google Play
+    date: 2018-04-28
+    organized: true
+
+  - quote: Excellent app. Just what the doctor ordered
+    cite: ★★★★★ JAMIE J on Google Play
+    date: 2018-04-07
+    organized: true
+
+
+
+
+
   - quote: Simple and perfect
     cite: Jeff Pauliks about Pitch Black Wallpaper
     date: 2018-03-06
@@ -20,7 +65,7 @@ quotes:
     cite: Joyce Xiao about Pitch Black Wallpaper
     date: 2018-01-12
 
-  - quote: Awesome<i class='tqc-emoji'> 🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
+  - quote: Awesome<i data-emoji> 🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
     cite: Michael Himko about Pitch Black Wallpaper
     date: 2017-12-19
     fav: true
@@ -49,7 +94,7 @@ quotes:
     cite: Anonymous about Pitch Black Wallpaper
     date: 2017-08-10
 
-  - quote: Excellent wallpaper for saving battery<i class='tqc-emoji'> 🔋</i>. Good job dev and no silly permissions
+  - quote: Excellent wallpaper for saving battery<i data-emoji> 🔋</i>. Good job dev and no silly permissions
     cite: John Wooduck Hunt about Pitch Black Wallpaper
     date: 2017-06-27
 
@@ -114,7 +159,7 @@ quotes:
     cite: Jewels Paulie about Pitch Black Wallpaper
     date: 2017-04-18
 
-  - quote: Does exactly what it says it's going to do. Leaving some cookies for the dev <i class='tqc-emoji'>🍪🍪🍪🍪🍪</i>
+  - quote: Does exactly what it says it's going to do. Leaving some cookies for the dev <i data-emoji>🍪🍪🍪🍪🍪</i>
     cite: Char G about Pitch Black Wallpaper
     date: 2017-04-16
     fav: true
@@ -173,7 +218,7 @@ quotes:
     date: 2017-03-10
     fav: true
 
-  - quote: Fantastic, <i class='tqc-emoji'>👍👌</i> works perfectly ... How can I pay a cappuccino to the developer? <i class='tqc-emoji'>☕</i>
+  - quote: Fantastic, <i data-emoji>👍👌</i> works perfectly ... How can I pay a cappuccino to the developer? <i data-emoji>☕</i>
     cite: Andi Stumboeck about Pitch Black Wallpaper, in German
     date: 2017-03-08
     fav: true
@@ -225,7 +270,7 @@ quotes:
     date: 2017-02-21
     fav: true
 
-  - quote: Just what I've been looking for, coz it's so plain & boring it's brilliant if you know what I mean!! <i class='tqc-emoji'>👍😊</i> Cheers devs.
+  - quote: Just what I've been looking for, coz it's so plain & boring it's brilliant if you know what I mean!! <i data-emoji>👍😊</i> Cheers devs.
     cite: Torbay 74 about Pitch Black Wallpaper
     date: 2017-02-20
 
@@ -233,7 +278,7 @@ quotes:
     cite: Milton Lima about Pitch Black Wallpaper, in Portuguese
     date: 2017-02-16
 
-  - quote: Super App. Danke <i class='tqc-emoji'>😃😃</i>
+  - quote: Super App. Danke <i data-emoji>😃😃</i>
     cite: Rudolf Luneberg about Pitch Black Wallpaper
     date: 2017-02-15
 
@@ -280,7 +325,7 @@ quotes:
     date: 2017-01-29
     fav: true
 
-  - quote: Love sou mash <i class='tqc-emoji'>😇😇😇😇</i>
+  - quote: Love sou mash <i data-emoji>😇😇😇😇</i>
     cite: Tarek Sir about Pitch Black Wallpaper
     date: 2017-01-25
     fav: true
@@ -465,7 +510,7 @@ quotes:
     cite: Dragan Srnic about Pitch Black Wallpaper
     date: 2016-11-17
 
-  - quote: Recommended! <i class='tqc-emoji'>👍</i> Cool app! I mean it! Really helps in keeping your phone comparatively cooler!<i class='tqc-emoji'>🌡❄☃</i>
+  - quote: Recommended! <i data-emoji>👍</i> Cool app! I mean it! Really helps in keeping your phone comparatively cooler!<i data-emoji>🌡❄☃</i>
     cite: Pushkar Malekar about Pitch Black Wallpaper
     date: 2016-11-13
 
@@ -582,7 +627,7 @@ quotes:
     cite: Pete Bellanger Jr about Pitch Black Wallpaper
     date: 2016-08-19
 
-  - quote: BEST BLACK WALLPAPER EVER!!!!!!!! <i class='tqc-emoji'>🙌☺😊😀😁</i>
+  - quote: BEST BLACK WALLPAPER EVER!!!!!!!! <i data-emoji>🙌☺😊😀😁</i>
     cite: Rashawn Hamilton about Pitch Black Wallpaper
     date: 2016-08-11
     fav: true
@@ -627,7 +672,7 @@ quotes:
     date: 2016-04-23
     fav: true
 
-  - quote: PERFECT! Love it. Does exactly what it says, simply and efficiently. The perfect app. One click and my phone looks completely different. Made a huge difference. ... Thanks for making this!!! <i class='tqc-emoji'>👍</i>
+  - quote: PERFECT! Love it. Does exactly what it says, simply and efficiently. The perfect app. One click and my phone looks completely different. Made a huge difference. ... Thanks for making this!!! <i data-emoji>👍</i>
     cite: James Addams about Pitch Black Wallpaper
     date: 2016-04-07
 
