@@ -1,826 +1,822 @@
-defaults:
-  url: https://play.google.com/store/apps/details?id=com.tecdrop.pitchblackwallpaper
-
-quotes:
-  - quote: Awesome pitch black wallpaper
-    cite: ★★★★★ Petu Zondi on Google Play
-    date: 2018-06-20
-    organized: true
-
-  - quote: Excellent. Ultra compact ... Gives a very flattering look on a low-end screen.
-    cite: ★★★★★ Anonymous on Google Play, in French
-    date: 2018-06-16
-    organized: true
-
-  - quote: "One...word: Goth <i data-emoji>😄</i>"
-    cite: ★★★★★ DMHQ - Administration on Google Play
-    date: 2018-06-10
-    organized: true
-
-  - quote: Delivers what it promises, excellent app.
-    cite: ★★★★★ carlos Borba on Google Play, in Portuguese
-    date: 2018-06-10
-    organized: true
-
-  - quote: I love it
-    cite: ★★★★★ Llud Apollo on Google Play
-    date: 2018-06-01
-    organized: true
-
-  - quote: This is the only wallpaper I use! I may change icons, or clocks, or whatever; but my wallpaper is always PITCH BLACK!
-    cite: ★★★★★ Joey Barnes on Google Play
-    date: 2018-05-15
-    fav: true
-    organized: true
-
-  - quote: Black Power!
-    cite: ★★★★★ Anonymous on Google Play
-    date: 2018-04-28
-    organized: true
-
-  - quote: Excellent app. Just what the doctor ordered
-    cite: ★★★★★ JAMIE J on Google Play
-    date: 2018-04-07
-    fav: true
-    organized: true
-
-  - quote: "Q: What dark themes are you using right now? A: Pitch Black Wallpaper by Tecdrop. No ads. Free. Recommended."
-    cite: IanThomas on Android Central Forums
-    url: https://forums.androidcentral.com/showthread.php?t=876432&p=6196400&viewfull=1#post6196400
-    date: 2018-03-19
-    organized: true
-
-  - quote: Simple and perfect
-    cite: ★★★★★ Jeff Pauliks on Google Play
-    date: 2018-03-06
-    organized: true
-
-  - quote: Excellent! Best application of its kind, practical like no other.
-    cite: ★★★★★ Heron Domingues on Google Play, in Portuguese
-    date: 2018-02-06
-    fav: true
-    organized: true
-
-  - quote: Great for the eyes and for the battery! <i data-emoji>👍</i>
-    cite: ★★★★★ Leone Santambrogio on Google Play, in Italian
-    date: 2018-02-03
-    organized: true
-
-  - quote: Perfect, no BS
-    cite: ★★★★★ Jeanne Vaguelsy on Google Play
-    date: 2018-01-29
-    organized: true
-
-  - quote: Just one word   Amazing
-    cite: ★★★★★ shahnawaz ahmed on Google Play
-    date: 2018-01-16
-    fav: true
-    organized: true
-
-  - quote: Super simple and works perfectly. Hardly takes up any storage on my phone.
-    cite: ★★★★★ Joyce Xiao on Google Play
-    date: 2018-01-12
-    organized: true
-
-  - quote: It's really very good ! My ZenFone was fast, but now it's even faster :) thanks guys
-    cite: ★★★★★ Steven Cooper on Google Play
-    date: 2018-01-12
-    organized: true
-
-  - quote: Awesome <i data-emoji>🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
-    cite: ★★★★★ Michael Himko on Google Play
-    date: 2017-12-19
-    organized: true
-
-  - quote: This one is so cool.
-    cite: ★★★★★ Mar Nitsuga on Google Play
-    date: 2017-12-04
-    organized: true
-
-  - quote: Simple, fast and perfect.
-    cite: ★★★★★ Marc A. Renton on Google Play, in German
-    date: 2017-09-08
-    organized: true
-
-  - quote: Top        <i data-emoji>😍😍   😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍   😍😍😍😍       😍😍      😍😍😍     😍😍😍</i>
-    cite: ★★★★★ HD Droz on Google Play
-    date: 2017-09-07
-    organized: true
-
-  - quote: Well it's black <i data-emoji>😊</i> I didn't know my screen could be so black... really good thanks.
-    cite: ★★★★★ Neil Bedford on Google Play
-    date: 2017-09-07
-    organized: true
-
-  - quote: Wow 5 stars. Just for doing exactly what they said it was gonna do
-    cite: ★★★★★ playhouserage on Google Play
-    date: 2017-08-31
-    organized: true
-
-  - quote: Loooooovvvvvvvveeeeeeeee
-    cite: ★★★★★ Anonymous on Google Play
-    date: 2017-08-21
-    organized: true
-
-  - quote: Total black!!! Looks great!!!
-    cite: ★★★★★ kyriakos moutsatsos on Google Play
-    date: 2017-08-15
-    organized: true
-
-  - quote: Brilliant simple app that does exactly what it says and couldn't be easier to use
-    cite: ★★★★★ Nottheusualtoday Levy on Google Play
-    date: 2017-08-12
-    organized: true
-
-  - quote: Best app ever. Super light 21kb, no ads, free, and does what it say.
-    cite: ★★★★★ Alessio Fedrizzi on Google Play
-    date: 2017-08-12
-    organized: true
-
-  - quote: Must have App. I've got several funky live wallpapers, but they are all battery vampires. I pop this on whenever I need to save battery, it's freaking brilliant
-    cite: ★★★★★ Anonymous on Google Play
-    date: 2017-08-10
-    organized: true
-
-  - quote: Very gorgeous color
-    cite: ★★★★★ Sachin Kharate on Google Play
-    date: 2017-08-05
-    organized: true
-
-  - quote: The screen background turned black. One simple button. No ads. Show!
-    cite: ★★★★★ Bruno Belo da Cunha on Google Play, in Portuguese
-    date: 2017-08-04
-    organized: true
-
-  - quote: This is what I'm looking for my entire android life. <i data-emoji>♥</i>
-    cite: ★★★★★ Shony M J on Google Play
-    date: 2017-07-30
-    fav: true
-    organized: true
-
-  - quote: Good black. Black is good.
-    cite: ★★★★★ Surya Utama on Google Play
-    date: 2017-07-15
-    organized: true
-
-  - quote: Black is cool
-    cite: ★★★★★ juha hätinen on Google Play
-    date: 2017-07-04
-    organized: true
-
-  - quote: Like
-    cite: ★★★★★ Play Abox on Google Play
-    date: 2017-07-01
-    organized: true
-
-  - quote: Excellent wallpaper for saving battery <i data-emoji>🔋</i>. Good job dev and no silly permissions
-    cite: John Wooduck Hunt about Pitch Black Wallpaper
-    date: 2017-06-27
-
-  - quote: 5 stars is little deserves more
-    cite: Guillermo Bracero about Pitch Black Wallpaper, in Spanish
-    date: 2017-06-23
-    fav: true
-
-  - quote: The search for wallpapers has ended.
-    cite: Antonio Galan about Pitch Black Wallpaper, in Spanish
-    date: 2017-06-21
-    fav: true
-
-  - quote: Brilliant does exactly what I want and saves eye strain and seems to save battery life. But no ads. Many thanks
-    cite: Geoffrey Newman about Pitch Black Wallpaper
-    date: 2017-06-20
-
-  - quote: Nice job dev.. Been using for a long time.
-    cite: Andre khalil about Pitch Black Wallpaper
-    date: 2017-06-17
-
-  - quote: Simply beautiful. Love the transition between home screens
-    cite: Chris Athanassiadis about Pitch Black Wallpaper
-    date: 2017-06-08
-
-  - quote: The best there is
-    cite: Valmir Ramos Duarte about Pitch Black Wallpaper, in Portuguese
-    date: 2017-05-24
-
-  - quote: This is a simple app that does what it claims. However like most simple things, it is highly underated! Great app.
-    cite: Loyalty Otokpa about Pitch Black Wallpaper
-    date: 2017-05-24
-    fav: true
-
-  - quote: One wallpaper to rule them all
-    cite: Vladimir Molitvenik about Pitch Black Wallpaper
-    date: 2017-05-14
-    fav: true
-
-  - quote: It's pretty legit and I like it a lot
-    cite: The_LG_V20_User about Pitch Black Wallpaper on YouTube
-    date: 2017-05-13
-
-  - quote: I think it's great I wish other apps would do what they say they will do
-    cite: Jay January about Pitch Black Wallpaper
-    date: 2017-05-12
-
-  - quote: I love how simple this app is
-    cite: Ficsor Tamás Zoltán about Pitch Black Wallpaper
-    date: 2017-05-08
-
-  - quote: The simplest concepts are often the most brilliant. This app is awesome.
-    cite: Bob Newell about Pitch Black Wallpaper
-    date: 2017-05-07
-    fav: true
-
-  - quote: This is the best
-    cite: Waldek Arek about Pitch Black Wallpaper
-    date: 2017-05-06
-
-  - quote: "First thing to install #wallpaper #clean"
-    cite: Timo Kallela, software company cofounder and CTO, on Twitter
-    url: https://twitter.com/kallelat/status/854725519002284033
-    date: 2017-04-19
-    organized: true
-
-  - quote: Loving this app
-    cite: Jewels Paulie about Pitch Black Wallpaper
-    date: 2017-04-18
-
-  - quote: Does exactly what it says it's going to do. Leaving some cookies for the dev <i data-emoji>🍪🍪🍪🍪🍪</i>
-    cite: Char G about Pitch Black Wallpaper
-    date: 2017-04-16
-    fav: true
-
-  - quote: Nothing extra. Night.
-    cite: Alexander Zuev about Pitch Black Wallpaper, in Russian
-    date: 2017-04-09
-
-  - quote: Sometimes the simplest is the best!
-    cite: Bard Mikkelsen about Pitch Black Wallpaper
-    date: 2017-04-01
-    fav: true
-
-  - quote: Magnificence
-    cite: essa esmeil about Pitch Black Wallpaper, in Arabic
-    date: 2017-03-30
-    fav: true
-
-  - quote: Excellent! That's what I was looking for. 5+
-    cite: Anna Svit about Pitch Black Wallpaper, in Russian
-    date: 2017-03-29
-
-  - quote: my fav
-    cite: Octa Core about Pitch Black Wallpaper
-    date: 2017-03-26
-    fav: true
-
-  - quote: Finally the screen saver that many of us are looking for
-    cite: Johnny Araque Barrera about Pitch Black Wallpaper, in Spanish
-    date: 2017-03-25
-
-  - quote: I wish all apps worked this well.
-    cite: Lindsay Smart about Pitch Black Wallpaper
-    date: 2017-03-23
-    fav: true
-
-  - quote: Elegant and refined; pure.
-    cite: Anonymous about Pitch Black Wallpaper, in Italian
-    date: 2017-03-22
-
-  - quote: True class, always one of the first apps I install on new ROMs.
-    cite: Mic Her about Pitch Black Wallpaper, in German
-    date: 2017-03-19
-
-  - quote: Stupid but genius
-    cite: Travis Grady about Pitch Black Wallpaper
-    date: 2017-03-16
-
-  - quote: I'm not sure why but this app makes me happy.
-    cite: Overopiated about Pitch Black Wallpaper
-    date: 2017-03-13
-    fav: true
-
-  - quote: That's it! Power in simplicity. Recommend.
-    cite: Wojtek Bargiel about Pitch Black Wallpaper, in Polish
-    date: 2017-03-10
-    fav: true
-
-  - quote: Fantastic, <i data-emoji>👍👌</i> works perfectly ... How can I pay a cappuccino to the developer? <i data-emoji>☕</i>
-    cite: Andi Stumboeck about Pitch Black Wallpaper, in German
-    date: 2017-03-08
-    fav: true
-
-  - quote: Exceptional fantastic
-    cite: LUCA O. about Pitch Black Wallpaper, in Italian
-    date: 2017-03-05
-
-  - quote: Great idea! I was scrolling through the reviews and, just like you can mark them as spam or unhelpful, I wish there was an option that said dumbass...
-    cite: Dan MO about Pitch Black Wallpaper
-    date: 2017-03-04
-
-  - quote: Revelation !!!
-    cite: Snake S about Pitch Black Wallpaper, in Polish
-    date: 2017-03-04
-
-  - quote: Pure genius!!!!!!!!
-    cite: Rajdeep Gupta about Pitch Black Wallpaper
-    date: 2017-03-04
-
-  - quote: Looks great. Everyone else has some picture, me, I like a clean look.
-    cite: William Jones about Pitch Black Wallpaper
-    date: 2017-03-04
-
-  - quote: It's a simple app that does all the work for you. Great
-    cite: Simon Park about Pitch Black Wallpaper
-    date: 2017-02-26
-
-  - quote: Useful, minimalistic, classy, aesthetic
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-02-24
-    fav: true
-
-  - quote: Perfect black. Just black. Truly black. Keep it alive!
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-02-24
-
-  - quote: BINGO!
-    cite: Shiner Famous about Pitch Black Wallpaper
-    date: 2017-02-23
-
-  - quote: Adorable
-    cite: Nikita Lizbeth about Pitch Black Wallpaper
-    date: 2017-02-22
-    fav: true
-
-  - quote: Some people don't get it, I do.
-    cite: Kim Freeman about Pitch Black Wallpaper
-    date: 2017-02-21
-    fav: true
-
-  - quote: Just what I've been looking for, coz it's so plain & boring it's brilliant if you know what I mean!! <i data-emoji>👍😊</i> Cheers devs.
-    cite: Torbay 74 about Pitch Black Wallpaper
-    date: 2017-02-20
-
-  - quote: Very good, for those looking for simplicity, no frills and no malicious permissions, totally support it.
-    cite: Milton Lima about Pitch Black Wallpaper, in Portuguese
-    date: 2017-02-16
-
-  - quote: Super App. Danke <i data-emoji>😃😃</i>
-    cite: Rudolf Luneberg about Pitch Black Wallpaper
-    date: 2017-02-15
-
-  - quote: This is a simple, elegant solution. Well done!
-    cite: Jay Jones about Pitch Black Wallpaper
-    date: 2017-02-14
-
-  - quote: Black is beautiful my friends. And I'm a white dude!
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-02-10
-    fav: true
-
-  - quote: That's it
-    cite: charlie parker about Pitch Black Wallpaper, in Croatian
-    date: 2017-02-07
-
-  - quote: Just what I was looking for. Pitch black is awesom.
-    cite: Jon DeJesus about Pitch Black Wallpaper
-    date: 2017-02-06
-
-  - quote: Well not bad at all, less eye strain and my phone battery loves it. It's even easier on my piece of sh*t CPU on this phone.
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-02-05
-
-  - quote: It really is pitch black. Congratulations to the developers. :)
-    cite: András Jetzin about Pitch Black Wallpaper, in Hungarian
-    date: 2017-02-03
-
-  - quote: Super. Merci
-    cite: Marcel Chabreyron about Pitch Black Wallpaper, in French
-    date: 2017-02-02
-
-  - quote: Now the battery lasts longer, amazing amazing amazing
-    cite: Moises Montez about Pitch Black Wallpaper, from Portuguese
-    date: 2017-01-31
-    fav: true
-
-  - quote: Does exactly what it says - and with including the lock screen background even more than some apps with adverts. Thank you!
-    cite: Harald Grill about Pitch Black Wallpaper
-    date: 2017-01-29
-
-  - quote: Can't wait for the pitchier than pitcher black update thanks :)
-    cite: Luca Clarke about Pitch Black Wallpaper
-    date: 2017-01-29
-    fav: true
-
-  - quote: Love sou mash <i data-emoji>😇😇😇😇</i>
-    cite: Tarek Sir about Pitch Black Wallpaper
-    date: 2017-01-25
-    fav: true
-
-  - quote: Me gusta mucho
-    cite: maria cristina carámbula silveira about Pitch Black Wallpaper, in Spanish
-    date: 2017-01-23
-
-  - quote: Guys I was going crazy looking for an application like this. Very good, very good.
-    cite: Isac Dias da Silva about Pitch Black Wallpaper, in Portuguese
-    date: 2017-01-22
-    fav: true
-
-  - quote: Great back drop to go with stealth icons
-    cite: Aaron Mortensen about Pitch Black Wallpaper
-    date: 2017-01-21
-
-  - quote: What a cool app! Simple and effective, just the kind of wallpaper I was looking for. Thanks.
-    cite: Everton Porter about Pitch Black Wallpaper
-    date: 2017-01-18
-
-  - quote: Great. Best out. No bs like the others.
-    cite: Robert Constantine about Pitch Black Wallpaper
-    date: 2017-01-17
-
-  - quote: Fade to black
-    cite: Roy Luli Sibyani about Pitch Black Wallpaper
-    date: 2017-01-17
-
-  - quote: I am partially sighted some wallpapers are too busy or bright for me. This is perfect!
-    cite: J C Gill about Pitch Black Wallpaper
-    date: 2017-01-13
-    fav: true
-
-  - quote: Bestttttt
-    cite: alexandru destiny about Pitch Black Wallpaper
-    date: 2017-01-07
-
-  - quote: Great. Just wanted a black wallpaper and this does just that with one click.
-    cite: Warwick Pye about Pitch Black Wallpaper
-    date: 2017-01-06
-
-  - quote: Love it. I want a pitch black background and I get it with this app!
-    cite: Dave Elmore about Pitch Black Wallpaper
-    date: 2017-01-04
-
-  - quote: I love all black. Less power it uses the better!
-    cite: Linda Vaughn about Pitch Black Wallpaper
-    date: 2017-01-04
-
-  - quote: Great idea and implementation
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-01-03
-
-  - quote: So so so amazing, wonder full black wallpaper
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-01-03
-
-  - quote: Love it. Click click done. Thanks
-    cite: neo polaris about Pitch Black Wallpaper
-    date: 2017-01-03
-    fav: true
-
-  - quote: Perfect. No need for memory, RAM nor battery, light, fast and battery saver, it is just perfect.
-    cite: Jn Jr about Pitch Black Wallpaper
-    date: 2017-01-03
-
-  - quote: Damn good.
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2017-01-02
-
-  - quote: Great. Thank you..happy New Year ..... cheerz
-    cite: Nigilnig Nig about Pitch Black Wallpaper
-    date: 2017-01-01
-    fav: true
-
-  - quote: Once you go black...you'll never go back!
-    cite: jay89120 about Pitch Black Wallpaper
-    date: 2017-01-01
-    fav: true
-
-  - quote: Even the tiniest piece of creativity is worth diamond, imho..
-    cite: Leo Wijaya Amri about Pitch Black Wallpaper
-    date: 2016-12-31
-    fav: true
-
-  - quote: Thx brother! I don't know its save battery or not but bro you make me laugh ... thank you big brother for this app take care:)
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2016-12-30
-
-  - quote: Sensational! Modest, small, without bells and whistles. It does exactly what it was created to do. Highly recommended!!!
-    cite: Anonymous about Pitch Black Wallpaper, in Polish
-    date: 2016-12-30
-
-  - quote: Why I hate it because it wastes less battery      meh.... 5 out of 5 rating
-    cite: Samuel Tien about Pitch Black Wallpaper
-    date: 2016-12-28
-
-  - quote: It's bigger on the inside.......
-    cite: Peter Romano about Pitch Black Wallpaper
-    date: 2016-12-25
-    fav: true
-
-  - quote: This app is AMAZING It lets your set a wallpaper so quickly
-    cite: YouGart about Pitch Black Wallpaper
-    date: 2016-12-24
-
-  - quote: Great idea! ... I like it, elegantly simple! Thank you.
-    cite: Carol Wiesner about Pitch Black Wallpaper
-    date: 2016-12-19
-
-  - quote: Black, no cream
-    cite: Keith Horn about Pitch Black Wallpaper
-    date: 2016-12-11
-    fav: true
-
-  - quote: SIMPLY LOVE IT ! I always download PITCH BLACK in new phone and after factory reset.saves batteries, help  eye.My phone's AMOLED SCREEN & PITCH BLACK are MADE FOR EACH OTHER. thanks.
-    cite: Jay kotian about Pitch Black Wallpaper
-    date: 2016-12-08
-
-  - quote: Simple, smart, brilliant. A useful little app with easy one tap application. It features no ads, no hidden purchases, and no unnecessary complexity. Tecdrop knows what it's doing.
-    cite: Soren Rodman about Pitch Black Wallpaper
-    date: 2016-12-07
-    fav: true
-
-  - quote: Install 20kb file, activate, black wallpaper, uninstall, still black wallpaper. 11/10 best app of the year
-    cite: Nabeel Kahlil M about Pitch Black Wallpaper
-    date: 2016-12-04
-    fav: true
-
-  - quote: Lol! Seriously, I'm giving this five stars for the humor and sarcasm. 'Congratulations! It's a black wallpaper!' Loooollll
-    cite: Matt Ramos about Pitch Black Wallpaper
-    date: 2016-12-02
-    fav: true
-
-  - quote: Cool! it should be you making cell phones
-    cite: gamer421 about Pitch Black Wallpaper, in French
-    date: 2016-12-02
-    fav: true
-
-  - quote: The best is often as simple! A ray of hope for all pessimists.
-    cite: rob dikken about Pitch Black Wallpaper, in Dutch
-    date: 2016-11-30
-
-  - quote: Amazing! innovator
-    cite: José Lucas about Pitch Black Wallpaper, in Portuguese
-    date: 2016-11-29
-
-  - quote: Nice! More of these concept please.. So simple. Yeah!!! Up up up!
-    cite: axe effect about Pitch Black Wallpaper
-    date: 2016-11-28
-    fav: true
-
-  - quote: Perfect for us minimalists
-    cite: Mac Lewis about Pitch Black Wallpaper
-    date: 2016-11-23
-    fav: true
-
-  - quote: Cool! Now that's an app.I have never seen such black with benefits.
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2016-11-21
-    fav: true
-
-  - quote: Great Idea.
-    cite: Mekey Salaria about Pitch Black Wallpaper
-    date: 2016-11-21
-
-  - quote: Awesome! Really effective against eye strain ... a pleasant sensation very different from a normal screen.
-    cite: Célio M about Pitch Black Wallpaper, in French
-    date: 2016-11-21
-
-  - quote: Wonderful work
-    cite: Milind Lokde about Pitch Black Wallpaper
-    date: 2016-11-18
-
-  - quote: Yup Perfect
-    cite: Tim Webster about Pitch Black Wallpaper
-    date: 2016-11-18
-    fav: true
-
-  - quote: Great! I would never imagine that black wallpaper could look this good. Great idea.
-    cite: Dragan Srnic about Pitch Black Wallpaper
-    date: 2016-11-17
-
-  - quote: Recommended! <i data-emoji>👍</i> Cool app! I mean it! Really helps in keeping your phone comparatively cooler!<i data-emoji>🌡❄☃</i>
-    cite: Pushkar Malekar about Pitch Black Wallpaper
-    date: 2016-11-13
-
-  - quote: I had second thoughts.....but this wallpaper is pure class.....should be pre - installed - the standard paper..... thanx developer / designer....... love it...!
-    cite: Donald W Kern about Pitch Black Wallpaper
-    date: 2016-11-13
-    fav: true
-
-  - quote: Best minimalist background
-    cite: Kittils Vogel about Pitch Black Wallpaper
-    date: 2016-11-12
-
-  - quote: Awesome! Dude well done. So simple and easy
-    cite: adam mitchell about Pitch Black Wallpaper
-    date: 2016-11-08
-    fav: true
-
-  - quote: Dope!!! Sleak and simply awesome..
-    cite: Hamilton Rx about Pitch Black Wallpaper
-    date: 2016-11-08
-    fav: true
-
-  - quote: An App you never thought you'd need but one that changes your device for the better. Especially if (like me) you're a minimalist.
-    cite: Dan Forsley about Pitch Black Wallpaper
-    date: 2016-11-08
-    fav: true
-
-  - quote: Good one!!!cheers!!!
-    cite: prabz cool about Pitch Black Wallpaper
-    date: 2016-11-08
-
-  - quote: Fantastic. ...new update has plenty of black. Best wallpaper ever.
-    cite: Jamie Cutrer about Pitch Black Wallpaper
-    date: 2016-11-06
-    fav: true
-
-  - quote: Wow! So much easier to read! No internet connection required, no ads, no spyware permissions, no memory hogs!
-    cite: Christa L about Pitch Black Wallpaper
-    date: 2016-11-06
-
-  - quote: Deep black is the most beautiful color!
-    cite: Martin Walthert about Pitch Black Wallpaper, in German
-    date: 2016-11-03
-
-  - quote: 'Great wallpaper! This stuff works great! No glare, and it saves battery!'
-    cite: Nate Brabant about Pitch Black Wallpaper
-    date: 2016-10-22
-
-  - quote: Oh man,  it's nice! It looks so awesome,  get it.   Completely idiot proof,  better battery life,  no ads at all.  Just black.  Perfection. You won't believe how good it looks.
-    cite: SPRPhilly about Pitch Black Wallpaper
-    date: 2016-10-14
-    fav: true
-
-  - quote: Great. No comment.
-    cite: Thiago Rocha about Pitch Black Wallpaper, in Portuguese
-    date: 2016-10-11
-
-  - quote: Awesome job with size & quality
-    cite: Onkar Indurkar about Pitch Black Wallpaper
-    date: 2016-10-07
-
-  - quote: "#1 on my list of apps to install! That is everytime I do reformat my phone. Thanks! More power!"
-    cite: Nikki Pulga about Pitch Black Wallpaper
-    date: 2016-09-29
-    fav: true
-
-  - quote: I am delighted with this application;) The application is super easy to use and easy to recommend;) A TRUE MASTERPIECE
-    cite: Radoslaw Rossati about Pitch Black Wallpaper, in Polish
-    date: 2016-09-25
-
-  - quote: Very light in size, excellent minimalist approach, no ads, super-easy setup.  It does exactly what it's intended; no more, no less -just what I wanted.
-    cite: Anonymous about Pitch Black Wallpaper
-    date: 2016-09-21
-
-  - quote: Great help for aging eyes!
-    cite: Christa Landon about Pitch Black Wallpaper
-    date: 2016-09-20
-    fav: true
-
-  - quote: If you waste time looking for wallpapers like me just get this one and enjoy
-    cite: Kevin Moore about Pitch Black Wallpaper
-    date: 2016-09-13
-
-  - quote: Just what I wanted for the lazy amongst us
-    cite: Dev Doc about Pitch Black Wallpaper
-    date: 2016-09-04
-
-  - quote: I am too glad to use this and will use forever.
-    cite: ABM Alkatib about Pitch Black Wallpaper
-    date: 2016-09-02
-    fav: true
-
-  - quote: Outstanding !!! Now I can read the screens in daylight. I now can see the time alot better as well.
-    cite: Mike Leach about Pitch Black Wallpaper
-    date: 2016-08-29
-
-  - quote: Perfect! I wanted a plain black wallpaper because it makes your apps stand out more on your homescreens and this is fantastic.
-    cite: James Carothers about Pitch Black Wallpaper
-    date: 2016-08-26
-
-  - quote: Looks great! Another great option for my wallpaper... thanks!
-    cite: Cecilia Pulmano about Pitch Black Wallpaper
-    date: 2016-08-25
-
-  - quote: Does its job! It's an app designed to set a black wallpaper, and does that perfectly. Just what I was looking for.
-    cite: Jose Eugenio Esteves Junior about Pitch Black Wallpaper
-    date: 2016-08-23
-
-  - quote: It does what it should do easy, fast and simple. Just perfect.
-    cite: Alvaro de la Torre about Pitch Black Wallpaper
-    date: 2016-08-19
-
-  - quote: Great! Does exactly what it says! Doesn't get any easier than this!
-    cite: Pete Bellanger Jr about Pitch Black Wallpaper
-    date: 2016-08-19
-
-  - quote: BEST BLACK WALLPAPER EVER!!!!!!!! <i data-emoji>🙌☺😊😀😁</i>
-    cite: Rashawn Hamilton about Pitch Black Wallpaper
-    date: 2016-08-11
-    fav: true
-
-  - quote: I just love this black wallpaper
-    cite: Muhammad Arfan about Pitch Black Wallpaper
-    date: 2016-08-09
-
-  - quote: Great! Simple app that does exactly what it says. No permissions. Seems to improve my phone's battery life, and the screen seems easier on my eyes.
-    cite: T Conklin about Pitch Black Wallpaper
-    date: 2016-07-09
-
-  - quote: The pitch black wallpaper is amazing! It matches my phonecase and keyboard. I love it
-    cite: Jacob Mario about Pitch Black Wallpaper
-    date: 2016-06-27
-
-  - quote: Simple and Effective. Does what it says. Simple to use and takes up almost no space.
-    cite: Ronnie Morgan about Pitch Black Wallpaper
-    date: 2016-06-22
-
-  - quote: Truth in advertising! Simple; does what it claims.
-    cite: Robert Barus about Pitch Black Wallpaper
-    date: 2016-06-18
-    fav: true
-
-  - quote: Small, perfectly black ideal well done keep up the great work
-    cite: Paul Fisher about Pitch Black Wallpaper
-    date: 2016-06-10
-    fav: true
-
-  - quote: Big favor. I've been waiting for someone to spoon-feed me. Thank you!
-    cite: Joe Rasid about Pitch Black Wallpaper
-    date: 2016-05-04
-    fav: true
-
-  - quote: It's badass. All black and silver metallic
-    cite: Steve Joseph about Pitch Black Wallpaper
-    date: 2016-05-04
-
-  - quote: Perfectly perfect.
-    cite: Kenneth Edelstein about Pitch Black Wallpaper
-    date: 2016-04-23
-    fav: true
-
-  - quote: PERFECT! Love it. Does exactly what it says, simply and efficiently. The perfect app. One click and my phone looks completely different. Made a huge difference. ... Thanks for making this!!! <i data-emoji>👍</i>
-    cite: James Addams about Pitch Black Wallpaper
-    date: 2016-04-07
-
-  - quote: Does what it says. Looks great, perfect for amoled screens, and the watch sized battery in my phone can use all the help it can get. Also appreciate it not invading my device with unnecessary permissions
-    cite: Bert Schoell about Pitch Black Wallpaper
-    date: 2016-03-22
-
-  - quote: "'Black as midnight, black as pitch, blacker than the foulest witch' – Blix – Legend (1985)"
-    cite: Morganna Bramah about Pitch Black Wallpaper
-    date: 2016-02-22
-
-  - quote: Pitch black baby... This wallpaper makes my icons really pop out on my phone. ..5 baby! !
-    cite: Paul Hernandez about Pitch Black Wallpaper
-    date: 2016-02-20
-
-  - quote: What I was wanting...period. The app works just like everyone reported. Thank you developer's!
-    cite: Gary Housley about Pitch Black Wallpaper
-    date: 2016-02-06
-
-  - quote: Fantastic! Pure black. No fuss. Thanks
-    cite: Kathy Brooks about Pitch Black Wallpaper
-    date: 2016-02-05
-
-  - quote: My prayers have been answered! Awesome job!!
-    cite: Brent Holden about Pitch Black Wallpaper
-    date: 2016-02-01
-
-  - quote: 6 stars. Wow that was fast lock screen and main screen went black screen in just 1 second thanks
-    cite: Patricio Pereira about Pitch Black Wallpaper
-    date: 2016-01-21
-    fav: true
-
-  - quote: Battery heaven! Pitch black background means no lit up background pixels which means extra battery life! Also heavy contrast with my apps means I need less brightness to easily see them! It is perfect! Thank you!
-    cite: Nicholas Kolta about Pitch Black Wallpaper
-    date: 2016-01-19
-
-  - quote: Speechless Omg!!!  What a wonderful app... I was desperately searching for a black wallpaper and after a looooong search finally found this cool app which has satisfied me.. Thank you developers...
-    cite: Venu Gopal about Pitch Black Wallpaper
-    date: 2015-12-14
-
-  - quote: Yes I found you!!
-    cite: Andy Yee about Pitch Black Wallpaper
-    date: 2015-12-11
-    fav: true
-
-  - quote: Great !!!! No frills..... Plain and simple.  Love it
-    cite: Joseph C. Segari Jr. about Pitch Black Wallpaper
-    date: 2015-12-05
-
-  - quote: Best black wallpaper ever.
-    cite: Franklin Clinton about Pitch Black Wallpaper
-    date: 2015-11-20
-    fav: true
-
-  - quote: Uh...is this possible? There's black...and then there's deep space black...close your eyes and disappear black...but THIS...? Impressive.
-    cite: Doug Rice about Pitch Black Wallpaper
-    date: 2015-10-22
-
-  - quote: So simple and so perfect.  No ads, no permissions.  Just what I was looking for. Thank you.
-    cite: Terry Korensek about Pitch Black Wallpaper
-    date: 2015-10-11
-    fav: true
-
-  - quote: Just what it promises. On spot!
-    cite: Sankalp Bothra about Pitch Black Wallpaper
-    date: 2015-07-24
+- quote: Awesome pitch black wallpaper
+  cite: ★★★★★ Petu Zondi on Google Play
+  date: 2018-06-20
+  organized: true
+
+- quote: Excellent. Ultra compact ... Gives a very flattering look on a low-end screen.
+  cite: ★★★★★ Anonymous on Google Play, in French
+  date: 2018-06-16
+  organized: true
+
+- quote: "One...word: Goth <i data-emoji>😄</i>"
+  cite: ★★★★★ DMHQ - Administration on Google Play
+  date: 2018-06-10
+  organized: true
+
+- quote: Delivers what it promises, excellent app.
+  cite: ★★★★★ carlos Borba on Google Play, in Portuguese
+  date: 2018-06-10
+  organized: true
+
+- quote: I love it
+  cite: ★★★★★ Llud Apollo on Google Play
+  date: 2018-06-01
+  organized: true
+
+- quote: This is the only wallpaper I use! I may change icons, or clocks, or whatever; but my wallpaper is always PITCH BLACK!
+  cite: ★★★★★ Joey Barnes on Google Play
+  date: 2018-05-15
+  fav: true
+  organized: true
+
+- quote: Black Power!
+  cite: ★★★★★ Anonymous on Google Play
+  date: 2018-04-28
+  organized: true
+
+- quote: Excellent app. Just what the doctor ordered
+  cite: ★★★★★ JAMIE J on Google Play
+  date: 2018-04-07
+  fav: true
+  organized: true
+
+- quote: "Q: What dark themes are you using right now? A: Pitch Black Wallpaper by Tecdrop. No ads. Free. Recommended."
+  cite: IanThomas on Android Central Forums
+  url: https://forums.androidcentral.com/showthread.php?t=876432&p=6196400&viewfull=1#post6196400
+  date: 2018-03-19
+  organized: true
+
+- quote: Simple and perfect
+  cite: ★★★★★ Jeff Pauliks on Google Play
+  date: 2018-03-06
+  organized: true
+
+- quote: Excellent! Best application of its kind, practical like no other.
+  cite: ★★★★★ Heron Domingues on Google Play, in Portuguese
+  date: 2018-02-06
+  fav: true
+  organized: true
+
+- quote: Great for the eyes and for the battery! <i data-emoji>👍</i>
+  cite: ★★★★★ Leone Santambrogio on Google Play, in Italian
+  date: 2018-02-03
+  organized: true
+
+- quote: Perfect, no BS
+  cite: ★★★★★ Jeanne Vaguelsy on Google Play
+  date: 2018-01-29
+  organized: true
+
+- quote: Just one word   Amazing
+  cite: ★★★★★ shahnawaz ahmed on Google Play
+  date: 2018-01-16
+  fav: true
+  organized: true
+
+- quote: Super simple and works perfectly. Hardly takes up any storage on my phone.
+  cite: ★★★★★ Joyce Xiao on Google Play
+  date: 2018-01-12
+  organized: true
+
+- quote: It's really very good ! My ZenFone was fast, but now it's even faster :) thanks guys
+  cite: ★★★★★ Steven Cooper on Google Play
+  date: 2018-01-12
+  organized: true
+
+- quote: Awesome <i data-emoji>🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
+  cite: ★★★★★ Michael Himko on Google Play
+  date: 2017-12-19
+  organized: true
+
+- quote: This one is so cool.
+  cite: ★★★★★ Mar Nitsuga on Google Play
+  date: 2017-12-04
+  organized: true
+
+- quote: Simple, fast and perfect.
+  cite: ★★★★★ Marc A. Renton on Google Play, in German
+  date: 2017-09-08
+  organized: true
+
+- quote: Top        <i data-emoji>😍😍   😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍   😍😍😍😍       😍😍      😍😍😍     😍😍😍</i>
+  cite: ★★★★★ HD Droz on Google Play
+  date: 2017-09-07
+  organized: true
+
+- quote: Well it's black <i data-emoji>😊</i> I didn't know my screen could be so black... really good thanks.
+  cite: ★★★★★ Neil Bedford on Google Play
+  date: 2017-09-07
+  organized: true
+
+- quote: Wow 5 stars. Just for doing exactly what they said it was gonna do
+  cite: ★★★★★ playhouserage on Google Play
+  date: 2017-08-31
+  organized: true
+
+- quote: Loooooovvvvvvvveeeeeeeee
+  cite: ★★★★★ Anonymous on Google Play
+  date: 2017-08-21
+  organized: true
+
+- quote: Total black!!! Looks great!!!
+  cite: ★★★★★ kyriakos moutsatsos on Google Play
+  date: 2017-08-15
+  organized: true
+
+- quote: Brilliant simple app that does exactly what it says and couldn't be easier to use
+  cite: ★★★★★ Nottheusualtoday Levy on Google Play
+  date: 2017-08-12
+  organized: true
+
+- quote: Best app ever. Super light 21kb, no ads, free, and does what it say.
+  cite: ★★★★★ Alessio Fedrizzi on Google Play
+  date: 2017-08-12
+  organized: true
+
+- quote: Must have App. I've got several funky live wallpapers, but they are all battery vampires. I pop this on whenever I need to save battery, it's freaking brilliant
+  cite: ★★★★★ Anonymous on Google Play
+  date: 2017-08-10
+  organized: true
+
+- quote: Very gorgeous color
+  cite: ★★★★★ Sachin Kharate on Google Play
+  date: 2017-08-05
+  organized: true
+
+- quote: The screen background turned black. One simple button. No ads. Show!
+  cite: ★★★★★ Bruno Belo da Cunha on Google Play, in Portuguese
+  date: 2017-08-04
+  organized: true
+
+- quote: This is what I'm looking for my entire android life. <i data-emoji>♥</i>
+  cite: ★★★★★ Shony M J on Google Play
+  date: 2017-07-30
+  fav: true
+  organized: true
+
+- quote: Good black. Black is good.
+  cite: ★★★★★ Surya Utama on Google Play
+  date: 2017-07-15
+  organized: true
+
+- quote: Black is cool
+  cite: ★★★★★ juha hätinen on Google Play
+  date: 2017-07-04
+  organized: true
+
+- quote: Like
+  cite: ★★★★★ Play Abox on Google Play
+  date: 2017-07-01
+  organized: true
+
+- quote: Excellent wallpaper for saving battery <i data-emoji>🔋</i>. Good job dev and no silly permissions
+  cite: John Wooduck Hunt about Pitch Black Wallpaper
+  date: 2017-06-27
+
+- quote: 5 stars is little deserves more
+  cite: Guillermo Bracero about Pitch Black Wallpaper, in Spanish
+  date: 2017-06-23
+  fav: true
+
+- quote: The search for wallpapers has ended.
+  cite: Antonio Galan about Pitch Black Wallpaper, in Spanish
+  date: 2017-06-21
+  fav: true
+
+- quote: Brilliant does exactly what I want and saves eye strain and seems to save battery life. But no ads. Many thanks
+  cite: Geoffrey Newman about Pitch Black Wallpaper
+  date: 2017-06-20
+
+- quote: Nice job dev.. Been using for a long time.
+  cite: Andre khalil about Pitch Black Wallpaper
+  date: 2017-06-17
+
+- quote: Simply beautiful. Love the transition between home screens
+  cite: Chris Athanassiadis about Pitch Black Wallpaper
+  date: 2017-06-08
+
+- quote: The best there is
+  cite: Valmir Ramos Duarte about Pitch Black Wallpaper, in Portuguese
+  date: 2017-05-24
+
+- quote: This is a simple app that does what it claims. However like most simple things, it is highly underated! Great app.
+  cite: Loyalty Otokpa about Pitch Black Wallpaper
+  date: 2017-05-24
+  fav: true
+
+- quote: One wallpaper to rule them all
+  cite: Vladimir Molitvenik about Pitch Black Wallpaper
+  date: 2017-05-14
+  fav: true
+
+- quote: It's pretty legit and I like it a lot
+  cite: The_LG_V20_User about Pitch Black Wallpaper on YouTube
+  date: 2017-05-13
+
+- quote: I think it's great I wish other apps would do what they say they will do
+  cite: Jay January about Pitch Black Wallpaper
+  date: 2017-05-12
+
+- quote: I love how simple this app is
+  cite: Ficsor Tamás Zoltán about Pitch Black Wallpaper
+  date: 2017-05-08
+
+- quote: The simplest concepts are often the most brilliant. This app is awesome.
+  cite: Bob Newell about Pitch Black Wallpaper
+  date: 2017-05-07
+  fav: true
+
+- quote: This is the best
+  cite: Waldek Arek about Pitch Black Wallpaper
+  date: 2017-05-06
+
+- quote: "First thing to install #wallpaper #clean"
+  cite: Timo Kallela, software company cofounder and CTO, on Twitter
+  url: https://twitter.com/kallelat/status/854725519002284033
+  date: 2017-04-19
+  organized: true
+
+- quote: Loving this app
+  cite: Jewels Paulie about Pitch Black Wallpaper
+  date: 2017-04-18
+
+- quote: Does exactly what it says it's going to do. Leaving some cookies for the dev <i data-emoji>🍪🍪🍪🍪🍪</i>
+  cite: Char G about Pitch Black Wallpaper
+  date: 2017-04-16
+  fav: true
+
+- quote: Nothing extra. Night.
+  cite: Alexander Zuev about Pitch Black Wallpaper, in Russian
+  date: 2017-04-09
+
+- quote: Sometimes the simplest is the best!
+  cite: Bard Mikkelsen about Pitch Black Wallpaper
+  date: 2017-04-01
+  fav: true
+
+- quote: Magnificence
+  cite: essa esmeil about Pitch Black Wallpaper, in Arabic
+  date: 2017-03-30
+  fav: true
+
+- quote: Excellent! That's what I was looking for. 5+
+  cite: Anna Svit about Pitch Black Wallpaper, in Russian
+  date: 2017-03-29
+
+- quote: my fav
+  cite: Octa Core about Pitch Black Wallpaper
+  date: 2017-03-26
+  fav: true
+
+- quote: Finally the screen saver that many of us are looking for
+  cite: Johnny Araque Barrera about Pitch Black Wallpaper, in Spanish
+  date: 2017-03-25
+
+- quote: I wish all apps worked this well.
+  cite: Lindsay Smart about Pitch Black Wallpaper
+  date: 2017-03-23
+  fav: true
+
+- quote: Elegant and refined; pure.
+  cite: Anonymous about Pitch Black Wallpaper, in Italian
+  date: 2017-03-22
+
+- quote: True class, always one of the first apps I install on new ROMs.
+  cite: Mic Her about Pitch Black Wallpaper, in German
+  date: 2017-03-19
+
+- quote: Stupid but genius
+  cite: Travis Grady about Pitch Black Wallpaper
+  date: 2017-03-16
+
+- quote: I'm not sure why but this app makes me happy.
+  cite: Overopiated about Pitch Black Wallpaper
+  date: 2017-03-13
+  fav: true
+
+- quote: That's it! Power in simplicity. Recommend.
+  cite: Wojtek Bargiel about Pitch Black Wallpaper, in Polish
+  date: 2017-03-10
+  fav: true
+
+- quote: Fantastic, <i data-emoji>👍👌</i> works perfectly ... How can I pay a cappuccino to the developer? <i data-emoji>☕</i>
+  cite: Andi Stumboeck about Pitch Black Wallpaper, in German
+  date: 2017-03-08
+  fav: true
+
+- quote: Exceptional fantastic
+  cite: LUCA O. about Pitch Black Wallpaper, in Italian
+  date: 2017-03-05
+
+- quote: Great idea! I was scrolling through the reviews and, just like you can mark them as spam or unhelpful, I wish there was an option that said dumbass...
+  cite: Dan MO about Pitch Black Wallpaper
+  date: 2017-03-04
+
+- quote: Revelation !!!
+  cite: Snake S about Pitch Black Wallpaper, in Polish
+  date: 2017-03-04
+
+- quote: Pure genius!!!!!!!!
+  cite: Rajdeep Gupta about Pitch Black Wallpaper
+  date: 2017-03-04
+
+- quote: Looks great. Everyone else has some picture, me, I like a clean look.
+  cite: William Jones about Pitch Black Wallpaper
+  date: 2017-03-04
+
+- quote: It's a simple app that does all the work for you. Great
+  cite: Simon Park about Pitch Black Wallpaper
+  date: 2017-02-26
+
+- quote: Useful, minimalistic, classy, aesthetic
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-02-24
+  fav: true
+
+- quote: Perfect black. Just black. Truly black. Keep it alive!
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-02-24
+
+- quote: BINGO!
+  cite: Shiner Famous about Pitch Black Wallpaper
+  date: 2017-02-23
+
+- quote: Adorable
+  cite: Nikita Lizbeth about Pitch Black Wallpaper
+  date: 2017-02-22
+  fav: true
+
+- quote: Some people don't get it, I do.
+  cite: Kim Freeman about Pitch Black Wallpaper
+  date: 2017-02-21
+  fav: true
+
+- quote: Just what I've been looking for, coz it's so plain & boring it's brilliant if you know what I mean!! <i data-emoji>👍😊</i> Cheers devs.
+  cite: Torbay 74 about Pitch Black Wallpaper
+  date: 2017-02-20
+
+- quote: Very good, for those looking for simplicity, no frills and no malicious permissions, totally support it.
+  cite: Milton Lima about Pitch Black Wallpaper, in Portuguese
+  date: 2017-02-16
+
+- quote: Super App. Danke <i data-emoji>😃😃</i>
+  cite: Rudolf Luneberg about Pitch Black Wallpaper
+  date: 2017-02-15
+
+- quote: This is a simple, elegant solution. Well done!
+  cite: Jay Jones about Pitch Black Wallpaper
+  date: 2017-02-14
+
+- quote: Black is beautiful my friends. And I'm a white dude!
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-02-10
+  fav: true
+
+- quote: That's it
+  cite: charlie parker about Pitch Black Wallpaper, in Croatian
+  date: 2017-02-07
+
+- quote: Just what I was looking for. Pitch black is awesom.
+  cite: Jon DeJesus about Pitch Black Wallpaper
+  date: 2017-02-06
+
+- quote: Well not bad at all, less eye strain and my phone battery loves it. It's even easier on my piece of sh*t CPU on this phone.
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-02-05
+
+- quote: It really is pitch black. Congratulations to the developers. :)
+  cite: András Jetzin about Pitch Black Wallpaper, in Hungarian
+  date: 2017-02-03
+
+- quote: Super. Merci
+  cite: Marcel Chabreyron about Pitch Black Wallpaper, in French
+  date: 2017-02-02
+
+- quote: Now the battery lasts longer, amazing amazing amazing
+  cite: Moises Montez about Pitch Black Wallpaper, from Portuguese
+  date: 2017-01-31
+  fav: true
+
+- quote: Does exactly what it says - and with including the lock screen background even more than some apps with adverts. Thank you!
+  cite: Harald Grill about Pitch Black Wallpaper
+  date: 2017-01-29
+
+- quote: Can't wait for the pitchier than pitcher black update thanks :)
+  cite: Luca Clarke about Pitch Black Wallpaper
+  date: 2017-01-29
+  fav: true
+
+- quote: Love sou mash <i data-emoji>😇😇😇😇</i>
+  cite: Tarek Sir about Pitch Black Wallpaper
+  date: 2017-01-25
+  fav: true
+
+- quote: Me gusta mucho
+  cite: maria cristina carámbula silveira about Pitch Black Wallpaper, in Spanish
+  date: 2017-01-23
+
+- quote: Guys I was going crazy looking for an application like this. Very good, very good.
+  cite: Isac Dias da Silva about Pitch Black Wallpaper, in Portuguese
+  date: 2017-01-22
+  fav: true
+
+- quote: Great back drop to go with stealth icons
+  cite: Aaron Mortensen about Pitch Black Wallpaper
+  date: 2017-01-21
+
+- quote: What a cool app! Simple and effective, just the kind of wallpaper I was looking for. Thanks.
+  cite: Everton Porter about Pitch Black Wallpaper
+  date: 2017-01-18
+
+- quote: Great. Best out. No bs like the others.
+  cite: Robert Constantine about Pitch Black Wallpaper
+  date: 2017-01-17
+
+- quote: Fade to black
+  cite: Roy Luli Sibyani about Pitch Black Wallpaper
+  date: 2017-01-17
+
+- quote: I am partially sighted some wallpapers are too busy or bright for me. This is perfect!
+  cite: J C Gill about Pitch Black Wallpaper
+  date: 2017-01-13
+  fav: true
+
+- quote: Bestttttt
+  cite: alexandru destiny about Pitch Black Wallpaper
+  date: 2017-01-07
+
+- quote: Great. Just wanted a black wallpaper and this does just that with one click.
+  cite: Warwick Pye about Pitch Black Wallpaper
+  date: 2017-01-06
+
+- quote: Love it. I want a pitch black background and I get it with this app!
+  cite: Dave Elmore about Pitch Black Wallpaper
+  date: 2017-01-04
+
+- quote: I love all black. Less power it uses the better!
+  cite: Linda Vaughn about Pitch Black Wallpaper
+  date: 2017-01-04
+
+- quote: Great idea and implementation
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-01-03
+
+- quote: So so so amazing, wonder full black wallpaper
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-01-03
+
+- quote: Love it. Click click done. Thanks
+  cite: neo polaris about Pitch Black Wallpaper
+  date: 2017-01-03
+  fav: true
+
+- quote: Perfect. No need for memory, RAM nor battery, light, fast and battery saver, it is just perfect.
+  cite: Jn Jr about Pitch Black Wallpaper
+  date: 2017-01-03
+
+- quote: Damn good.
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2017-01-02
+
+- quote: Great. Thank you..happy New Year ..... cheerz
+  cite: Nigilnig Nig about Pitch Black Wallpaper
+  date: 2017-01-01
+  fav: true
+
+- quote: Once you go black...you'll never go back!
+  cite: jay89120 about Pitch Black Wallpaper
+  date: 2017-01-01
+  fav: true
+
+- quote: Even the tiniest piece of creativity is worth diamond, imho..
+  cite: Leo Wijaya Amri about Pitch Black Wallpaper
+  date: 2016-12-31
+  fav: true
+
+- quote: Thx brother! I don't know its save battery or not but bro you make me laugh ... thank you big brother for this app take care:)
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2016-12-30
+
+- quote: Sensational! Modest, small, without bells and whistles. It does exactly what it was created to do. Highly recommended!!!
+  cite: Anonymous about Pitch Black Wallpaper, in Polish
+  date: 2016-12-30
+
+- quote: Why I hate it because it wastes less battery      meh.... 5 out of 5 rating
+  cite: Samuel Tien about Pitch Black Wallpaper
+  date: 2016-12-28
+
+- quote: It's bigger on the inside.......
+  cite: Peter Romano about Pitch Black Wallpaper
+  date: 2016-12-25
+  fav: true
+
+- quote: This app is AMAZING It lets your set a wallpaper so quickly
+  cite: YouGart about Pitch Black Wallpaper
+  date: 2016-12-24
+
+- quote: Great idea! ... I like it, elegantly simple! Thank you.
+  cite: Carol Wiesner about Pitch Black Wallpaper
+  date: 2016-12-19
+
+- quote: Black, no cream
+  cite: Keith Horn about Pitch Black Wallpaper
+  date: 2016-12-11
+  fav: true
+
+- quote: SIMPLY LOVE IT ! I always download PITCH BLACK in new phone and after factory reset.saves batteries, help  eye.My phone's AMOLED SCREEN & PITCH BLACK are MADE FOR EACH OTHER. thanks.
+  cite: Jay kotian about Pitch Black Wallpaper
+  date: 2016-12-08
+
+- quote: Simple, smart, brilliant. A useful little app with easy one tap application. It features no ads, no hidden purchases, and no unnecessary complexity. Tecdrop knows what it's doing.
+  cite: Soren Rodman about Pitch Black Wallpaper
+  date: 2016-12-07
+  fav: true
+
+- quote: Install 20kb file, activate, black wallpaper, uninstall, still black wallpaper. 11/10 best app of the year
+  cite: Nabeel Kahlil M about Pitch Black Wallpaper
+  date: 2016-12-04
+  fav: true
+
+- quote: Lol! Seriously, I'm giving this five stars for the humor and sarcasm. 'Congratulations! It's a black wallpaper!' Loooollll
+  cite: Matt Ramos about Pitch Black Wallpaper
+  date: 2016-12-02
+  fav: true
+
+- quote: Cool! it should be you making cell phones
+  cite: gamer421 about Pitch Black Wallpaper, in French
+  date: 2016-12-02
+  fav: true
+
+- quote: The best is often as simple! A ray of hope for all pessimists.
+  cite: rob dikken about Pitch Black Wallpaper, in Dutch
+  date: 2016-11-30
+
+- quote: Amazing! innovator
+  cite: José Lucas about Pitch Black Wallpaper, in Portuguese
+  date: 2016-11-29
+
+- quote: Nice! More of these concept please.. So simple. Yeah!!! Up up up!
+  cite: axe effect about Pitch Black Wallpaper
+  date: 2016-11-28
+  fav: true
+
+- quote: Perfect for us minimalists
+  cite: Mac Lewis about Pitch Black Wallpaper
+  date: 2016-11-23
+  fav: true
+
+- quote: Cool! Now that's an app.I have never seen such black with benefits.
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2016-11-21
+  fav: true
+
+- quote: Great Idea.
+  cite: Mekey Salaria about Pitch Black Wallpaper
+  date: 2016-11-21
+
+- quote: Awesome! Really effective against eye strain ... a pleasant sensation very different from a normal screen.
+  cite: Célio M about Pitch Black Wallpaper, in French
+  date: 2016-11-21
+
+- quote: Wonderful work
+  cite: Milind Lokde about Pitch Black Wallpaper
+  date: 2016-11-18
+
+- quote: Yup Perfect
+  cite: Tim Webster about Pitch Black Wallpaper
+  date: 2016-11-18
+  fav: true
+
+- quote: Great! I would never imagine that black wallpaper could look this good. Great idea.
+  cite: Dragan Srnic about Pitch Black Wallpaper
+  date: 2016-11-17
+
+- quote: Recommended! <i data-emoji>👍</i> Cool app! I mean it! Really helps in keeping your phone comparatively cooler!<i data-emoji>🌡❄☃</i>
+  cite: Pushkar Malekar about Pitch Black Wallpaper
+  date: 2016-11-13
+
+- quote: I had second thoughts.....but this wallpaper is pure class.....should be pre - installed - the standard paper..... thanx developer / designer....... love it...!
+  cite: Donald W Kern about Pitch Black Wallpaper
+  date: 2016-11-13
+  fav: true
+
+- quote: Best minimalist background
+  cite: Kittils Vogel about Pitch Black Wallpaper
+  date: 2016-11-12
+
+- quote: Awesome! Dude well done. So simple and easy
+  cite: adam mitchell about Pitch Black Wallpaper
+  date: 2016-11-08
+  fav: true
+
+- quote: Dope!!! Sleak and simply awesome..
+  cite: Hamilton Rx about Pitch Black Wallpaper
+  date: 2016-11-08
+  fav: true
+
+- quote: An App you never thought you'd need but one that changes your device for the better. Especially if (like me) you're a minimalist.
+  cite: Dan Forsley about Pitch Black Wallpaper
+  date: 2016-11-08
+  fav: true
+
+- quote: Good one!!!cheers!!!
+  cite: prabz cool about Pitch Black Wallpaper
+  date: 2016-11-08
+
+- quote: Fantastic. ...new update has plenty of black. Best wallpaper ever.
+  cite: Jamie Cutrer about Pitch Black Wallpaper
+  date: 2016-11-06
+  fav: true
+
+- quote: Wow! So much easier to read! No internet connection required, no ads, no spyware permissions, no memory hogs!
+  cite: Christa L about Pitch Black Wallpaper
+  date: 2016-11-06
+
+- quote: Deep black is the most beautiful color!
+  cite: Martin Walthert about Pitch Black Wallpaper, in German
+  date: 2016-11-03
+
+- quote: 'Great wallpaper! This stuff works great! No glare, and it saves battery!'
+  cite: Nate Brabant about Pitch Black Wallpaper
+  date: 2016-10-22
+
+- quote: Oh man,  it's nice! It looks so awesome,  get it.   Completely idiot proof,  better battery life,  no ads at all.  Just black.  Perfection. You won't believe how good it looks.
+  cite: SPRPhilly about Pitch Black Wallpaper
+  date: 2016-10-14
+  fav: true
+
+- quote: Great. No comment.
+  cite: Thiago Rocha about Pitch Black Wallpaper, in Portuguese
+  date: 2016-10-11
+
+- quote: Awesome job with size & quality
+  cite: Onkar Indurkar about Pitch Black Wallpaper
+  date: 2016-10-07
+
+- quote: "#1 on my list of apps to install! That is everytime I do reformat my phone. Thanks! More power!"
+  cite: Nikki Pulga about Pitch Black Wallpaper
+  date: 2016-09-29
+  fav: true
+
+- quote: I am delighted with this application;) The application is super easy to use and easy to recommend;) A TRUE MASTERPIECE
+  cite: Radoslaw Rossati about Pitch Black Wallpaper, in Polish
+  date: 2016-09-25
+
+- quote: Very light in size, excellent minimalist approach, no ads, super-easy setup.  It does exactly what it's intended; no more, no less -just what I wanted.
+  cite: Anonymous about Pitch Black Wallpaper
+  date: 2016-09-21
+
+- quote: Great help for aging eyes!
+  cite: Christa Landon about Pitch Black Wallpaper
+  date: 2016-09-20
+  fav: true
+
+- quote: If you waste time looking for wallpapers like me just get this one and enjoy
+  cite: Kevin Moore about Pitch Black Wallpaper
+  date: 2016-09-13
+
+- quote: Just what I wanted for the lazy amongst us
+  cite: Dev Doc about Pitch Black Wallpaper
+  date: 2016-09-04
+
+- quote: I am too glad to use this and will use forever.
+  cite: ABM Alkatib about Pitch Black Wallpaper
+  date: 2016-09-02
+  fav: true
+
+- quote: Outstanding !!! Now I can read the screens in daylight. I now can see the time alot better as well.
+  cite: Mike Leach about Pitch Black Wallpaper
+  date: 2016-08-29
+
+- quote: Perfect! I wanted a plain black wallpaper because it makes your apps stand out more on your homescreens and this is fantastic.
+  cite: James Carothers about Pitch Black Wallpaper
+  date: 2016-08-26
+
+- quote: Looks great! Another great option for my wallpaper... thanks!
+  cite: Cecilia Pulmano about Pitch Black Wallpaper
+  date: 2016-08-25
+
+- quote: Does its job! It's an app designed to set a black wallpaper, and does that perfectly. Just what I was looking for.
+  cite: Jose Eugenio Esteves Junior about Pitch Black Wallpaper
+  date: 2016-08-23
+
+- quote: It does what it should do easy, fast and simple. Just perfect.
+  cite: Alvaro de la Torre about Pitch Black Wallpaper
+  date: 2016-08-19
+
+- quote: Great! Does exactly what it says! Doesn't get any easier than this!
+  cite: Pete Bellanger Jr about Pitch Black Wallpaper
+  date: 2016-08-19
+
+- quote: BEST BLACK WALLPAPER EVER!!!!!!!! <i data-emoji>🙌☺😊😀😁</i>
+  cite: Rashawn Hamilton about Pitch Black Wallpaper
+  date: 2016-08-11
+  fav: true
+
+- quote: I just love this black wallpaper
+  cite: Muhammad Arfan about Pitch Black Wallpaper
+  date: 2016-08-09
+
+- quote: Great! Simple app that does exactly what it says. No permissions. Seems to improve my phone's battery life, and the screen seems easier on my eyes.
+  cite: T Conklin about Pitch Black Wallpaper
+  date: 2016-07-09
+
+- quote: The pitch black wallpaper is amazing! It matches my phonecase and keyboard. I love it
+  cite: Jacob Mario about Pitch Black Wallpaper
+  date: 2016-06-27
+
+- quote: Simple and Effective. Does what it says. Simple to use and takes up almost no space.
+  cite: Ronnie Morgan about Pitch Black Wallpaper
+  date: 2016-06-22
+
+- quote: Truth in advertising! Simple; does what it claims.
+  cite: Robert Barus about Pitch Black Wallpaper
+  date: 2016-06-18
+  fav: true
+
+- quote: Small, perfectly black ideal well done keep up the great work
+  cite: Paul Fisher about Pitch Black Wallpaper
+  date: 2016-06-10
+  fav: true
+
+- quote: Big favor. I've been waiting for someone to spoon-feed me. Thank you!
+  cite: Joe Rasid about Pitch Black Wallpaper
+  date: 2016-05-04
+  fav: true
+
+- quote: It's badass. All black and silver metallic
+  cite: Steve Joseph about Pitch Black Wallpaper
+  date: 2016-05-04
+
+- quote: Perfectly perfect.
+  cite: Kenneth Edelstein about Pitch Black Wallpaper
+  date: 2016-04-23
+  fav: true
+
+- quote: PERFECT! Love it. Does exactly what it says, simply and efficiently. The perfect app. One click and my phone looks completely different. Made a huge difference. ... Thanks for making this!!! <i data-emoji>👍</i>
+  cite: James Addams about Pitch Black Wallpaper
+  date: 2016-04-07
+
+- quote: Does what it says. Looks great, perfect for amoled screens, and the watch sized battery in my phone can use all the help it can get. Also appreciate it not invading my device with unnecessary permissions
+  cite: Bert Schoell about Pitch Black Wallpaper
+  date: 2016-03-22
+
+- quote: "'Black as midnight, black as pitch, blacker than the foulest witch' – Blix – Legend (1985)"
+  cite: Morganna Bramah about Pitch Black Wallpaper
+  date: 2016-02-22
+
+- quote: Pitch black baby... This wallpaper makes my icons really pop out on my phone. ..5 baby! !
+  cite: Paul Hernandez about Pitch Black Wallpaper
+  date: 2016-02-20
+
+- quote: What I was wanting...period. The app works just like everyone reported. Thank you developer's!
+  cite: Gary Housley about Pitch Black Wallpaper
+  date: 2016-02-06
+
+- quote: Fantastic! Pure black. No fuss. Thanks
+  cite: Kathy Brooks about Pitch Black Wallpaper
+  date: 2016-02-05
+
+- quote: My prayers have been answered! Awesome job!!
+  cite: Brent Holden about Pitch Black Wallpaper
+  date: 2016-02-01
+
+- quote: 6 stars. Wow that was fast lock screen and main screen went black screen in just 1 second thanks
+  cite: Patricio Pereira about Pitch Black Wallpaper
+  date: 2016-01-21
+  fav: true
+
+- quote: Battery heaven! Pitch black background means no lit up background pixels which means extra battery life! Also heavy contrast with my apps means I need less brightness to easily see them! It is perfect! Thank you!
+  cite: Nicholas Kolta about Pitch Black Wallpaper
+  date: 2016-01-19
+
+- quote: Speechless Omg!!!  What a wonderful app... I was desperately searching for a black wallpaper and after a looooong search finally found this cool app which has satisfied me.. Thank you developers...
+  cite: Venu Gopal about Pitch Black Wallpaper
+  date: 2015-12-14
+
+- quote: Yes I found you!!
+  cite: Andy Yee about Pitch Black Wallpaper
+  date: 2015-12-11
+  fav: true
+
+- quote: Great !!!! No frills..... Plain and simple.  Love it
+  cite: Joseph C. Segari Jr. about Pitch Black Wallpaper
+  date: 2015-12-05
+
+- quote: Best black wallpaper ever.
+  cite: Franklin Clinton about Pitch Black Wallpaper
+  date: 2015-11-20
+  fav: true
+
+- quote: Uh...is this possible? There's black...and then there's deep space black...close your eyes and disappear black...but THIS...? Impressive.
+  cite: Doug Rice about Pitch Black Wallpaper
+  date: 2015-10-22
+
+- quote: So simple and so perfect.  No ads, no permissions.  Just what I was looking for. Thank you.
+  cite: Terry Korensek about Pitch Black Wallpaper
+  date: 2015-10-11
+  fav: true
+
+- quote: Just what it promises. On spot!
+  cite: Sankalp Bothra about Pitch Black Wallpaper
+  date: 2015-07-24
