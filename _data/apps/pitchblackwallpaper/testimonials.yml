@@ -1,3 +1,8 @@
+- quote: I love this app
+  cite: ★★★★★ Umer Farooq on Google Play
+  date: 2018-07-09
+  int: c
+
 - quote: Sweet
   cite: ★★★★★ Veander Gammer on Google Play
   date: 2018-07-06
@@ -8,15 +13,24 @@
   date: 2018-07-04
   int: c
 
+- quote: Beautiful
+  original: جميلة
+  lang: Arabic
+  cite: ★★★★★ حذيفة ابن اليمان on Google Play
+  date: 2018-06-28
+  int: co
+
 - quote: Awesome pitch black wallpaper
   cite: ★★★★★ Petu Zondi on Google Play
   date: 2018-06-20
   int: c
 
 - quote: Excellent. Ultra compact ... Gives a very flattering look on a low-end screen.
-  cite: ★★★★★ Anonymous on Google Play, in French
+  original: Excellent. Ultra compacte ... Donne un look très flatteur sur un écran bas de gamme.
+  cite: ★★★★★ Anonymous on Google Play
+  lang: French
   date: 2018-06-16
-  int: c
+  int: co
 
 - quote: "One...word: Goth <i data-emoji>😄</i>"
   cite: ★★★★★ DMHQ - Administration on Google Play
@@ -24,13 +38,20 @@
   int: c
 
 - quote: Delivers what it promises, excellent app.
-  cite: ★★★★★ carlos Borba on Google Play, in Portuguese
+  original: Cumpre o que promete , excelente app.
+  lang: Portuguese
+  cite: ★★★★★ carlos Borba on Google Play
   date: 2018-06-10
-  int: c
+  int: co
 
 - quote: I love it
   cite: ★★★★★ Llud Apollo on Google Play
   date: 2018-06-01
+  int: c
+
+- quote: Good to have pitch black wallpaper after a long time using of colourful wallpapers. 
+  cite: ★★★★★ Jenuin Varghese George on Google Play
+  date: 2018-05-21
   int: c
 
 - quote: This is the only wallpaper I use! I may change icons, or clocks, or whatever; but my wallpaper is always PITCH BLACK!
@@ -44,10 +65,36 @@
   date: 2018-04-28
   int: c
 
+- quote: Very happy
+  original: Sangat senang
+  lang: Indonesian
+  cite: ★★★★★ Anonymous on Google Play
+  date: 2018-04-23
+  int: co
+
 - quote: Excellent app. Just what the doctor ordered
   cite: ★★★★★ JAMIE J on Google Play
   date: 2018-04-07
   fav: true
+  int: c
+
+- quote: Excellent only a function but it is perfect. As it should be.
+  original: Excelente solo una función pero es perfecta. Como debe ser.
+  lang: Spanish
+  cite: ★★★★★ fenelitto litto on Google Play
+  date: 2018-04-07
+  fav: true
+  int: co
+
+- quote: Great app. Simplicity is the key and you guys did it.
+  cite: ★★★★★ Ritvik Balvally on Google Play
+  date: 2018-04-05
+  fav: true
+  int: c
+
+- quote: Blackly I love it for real
+  cite: ★★★★★ Asaf sulayman on Google Play
+  date: 2018-04-02
   int: c
 
 - quote: Fantastic app, simple, effective - what else do you need?
@@ -93,15 +140,19 @@
   int: c
 
 - quote: Excellent! Best application of its kind, practical like no other.
-  cite: ★★★★★ Heron Domingues on Google Play, in Portuguese
+  original: Excelente! Melhor aplicativo do gênero, prático como nenhum outro.
+  lang: Portuguese
+  cite: ★★★★★ Heron Domingues on Google Play
   date: 2018-02-06
   fav: true
-  int: c
+  int: co
 
 - quote: Great for the eyes and for the battery! <i data-emoji>👍</i>
-  cite: ★★★★★ Leone Santambrogio on Google Play, in Italian
+  original: Ottimo per gli occhi e la batteria! <i data-emoji>👍</i>
+  lang: Italian
+  cite: ★★★★★ Leone Santambrogio on Google Play
   date: 2018-02-03
-  int: c
+  int: co
 
 - quote: Perfect, no BS
   cite: ★★★★★ Jeanne Vaguelsy on Google Play
@@ -136,9 +187,11 @@
   int: c
 
 - quote: It looks cool and also saves battery power. I recommend.
-  cite: ★★★★★ Eduardo R. Monteiro on Google Play, in Portuguese
+  original: Fica legal e ainda oferece bateria extra. Recomendo =D
+  lang: Portuguese
+  cite: ★★★★★ Eduardo R. Monteiro on Google Play
   date: 2017-12-20
-  int: c
+  int: co
 
 - quote: Awesome <i data-emoji>🌟</i>  Keeps it simple, saves power! It is crisp,  clean, along with looking very stylish!
   cite: ★★★★★ Michael Himko on Google Play
@@ -171,9 +224,11 @@
   int: c
 
 - quote: Simple, fast and perfect.
-  cite: ★★★★★ Marc A. Renton on Google Play, in German
+  original: Einfach, schnell und perfekt.
+  lang: German
+  cite: ★★★★★ Marc A. Renton on Google Play
   date: 2017-09-08
-  int: c
+  int: co
 
 - quote: Top        <i data-emoji>😍😍   😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍 😍😍😍😍😍   😍😍😍😍       😍😍      😍😍😍     😍😍😍</i>
   cite: ★★★★★ HD Droz on Google Play
@@ -328,22 +383,28 @@
   int: c
 
 - quote: Loving this app
-  cite: Jewels Paulie about Pitch Black Wallpaper
+  cite: ★★★★★ Jewels Paulie on Google Play
   date: 2017-04-18
+  int: c
 
 - quote: Does exactly what it says it's going to do. Leaving some cookies for the dev <i data-emoji>🍪🍪🍪🍪🍪</i>
-  cite: Char G about Pitch Black Wallpaper
+  cite: ★★★★★ Char G on Google Play
   date: 2017-04-16
   fav: true
+  int: c
 
 - quote: Nothing extra. Night.
-  cite: Alexander Zuev about Pitch Black Wallpaper, in Russian
+  original: Ничего лишнего. Ночь.
+  lang: Russian
+  cite: ★★★★★ Alexander Zuev on Google Play
   date: 2017-04-09
+  int: co
 
 - quote: Sometimes the simplest is the best!
-  cite: Bard Mikkelsen about Pitch Black Wallpaper
+  cite: ★★★★★ Bard Mikkelsen on Google Play
   date: 2017-04-01
   fav: true
+  int: c
 
 - quote: Magnificence
   cite: essa esmeil about Pitch Black Wallpaper, in Arabic
@@ -575,53 +636,66 @@
   fav: true
 
 - quote: Once you go black...you'll never go back!
-  cite: jay89120 about Pitch Black Wallpaper
+  cite: ★★★★ jay89120 on Google Play
   date: 2017-01-01
   fav: true
+  int: c
 
 - quote: Even the tiniest piece of creativity is worth diamond, imho..
-  cite: Leo Wijaya Amri about Pitch Black Wallpaper
+  cite: ★★★★★ Leo Wijaya Amri on Google Play
   date: 2016-12-31
   fav: true
+  int: c
 
 - quote: Thx brother! I don't know its save battery or not but bro you make me laugh ... thank you big brother for this app take care:)
-  cite: Anonymous about Pitch Black Wallpaper
+  cite: ★★★★★ Anonymous on Google Play
   date: 2016-12-30
+  int: c
 
 - quote: Sensational! Modest, small, without bells and whistles. It does exactly what it was created to do. Highly recommended!!!
-  cite: Anonymous about Pitch Black Wallpaper, in Polish
+  original: Rewelacyjna! Skromna, niewielka, bez 'wodotrysków'. Robi dokładnie to, do czego została stworzona. Gorąco polecam!!!
+  lang: Polish
+  cite: ★★★★★ Anonymous on Google Play
   date: 2016-12-30
+  int: co
 
 - quote: Why I hate it because it wastes less battery      meh.... 5 out of 5 rating
-  cite: Samuel Tien about Pitch Black Wallpaper
+  cite: ★★★★★ Samuel Tien on Google Play
   date: 2016-12-28
+  int: c
 
 - quote: It's bigger on the inside.......
-  cite: Peter Romano about Pitch Black Wallpaper
+  cite: ★★★★★ Peter Romano on Google Play
   date: 2016-12-25
-  fav: true
+  int: c
 
 - quote: This app is AMAZING It lets your set a wallpaper so quickly
-  cite: YouGart about Pitch Black Wallpaper
+  cite: ★★★★★ YouGart on Google Play
   date: 2016-12-24
+  int: c
 
 - quote: Great idea! ... I like it, elegantly simple! Thank you.
-  cite: Carol Wiesner about Pitch Black Wallpaper
+  cite: ★★★★★ Carol Wiesner on Google Play
   date: 2016-12-19
+  fav: true
+  int: c
 
 - quote: Black, no cream
-  cite: Keith Horn about Pitch Black Wallpaper
+  cite: ★★★★★ Keith Horn on Google Play
   date: 2016-12-11
   fav: true
+  int: c
 
-- quote: SIMPLY LOVE IT ! I always download PITCH BLACK in new phone and after factory reset.saves batteries, help  eye.My phone's AMOLED SCREEN & PITCH BLACK are MADE FOR EACH OTHER. thanks.
-  cite: Jay kotian about Pitch Black Wallpaper
+- quote: SIMPLY LOVE IT ! I always download PITCH BLACK in new phone and after factory reset. saves batteries, help eye. My phone's AMOLED SCREEN & PITCH BLACK are MADE FOR EACH OTHER. thanks.
+  cite: ★★★★★ Jay kotian on Google Play
   date: 2016-12-08
+  int: c
 
 - quote: Simple, smart, brilliant. A useful little app with easy one tap application. It features no ads, no hidden purchases, and no unnecessary complexity. Tecdrop knows what it's doing.
-  cite: Soren Rodman about Pitch Black Wallpaper
+  cite: ★★★★★ Soren Rodman on Google Play
   date: 2016-12-07
   fav: true
+  int: c
 
 - quote: Install 20kb file, activate, black wallpaper, uninstall, still black wallpaper. 11/10 best app of the year
   cite: Nabeel Kahlil M about Pitch Black Wallpaper
@@ -732,9 +806,20 @@
   date: 2016-10-22
 
 - quote: Oh man,  it's nice! It looks so awesome,  get it.   Completely idiot proof,  better battery life,  no ads at all.  Just black.  Perfection. You won't believe how good it looks.
-  cite: SPRPhilly about Pitch Black Wallpaper
+  cite: ★★★★★ SPRPhilly on Google Play
   date: 2016-10-14
   fav: true
+  int: c
+
+- quote: Give your AMOLED what it wants! It is truly black as pitch (for those of us old enough to know what pitch is)
+  cite: ★★★★★ Jeffrey Koenig about Pitch Black Wallpaper
+  date: 2016-10-15
+  int: c
+
+- quote: Perfectly and easily
+  cite: ★★★★★ alessandro agostini about Pitch Black Wallpaper
+  date: 2016-10-12
+  int: c
 
 - quote: Great. No comment.
   cite: Thiago Rocha about Pitch Black Wallpaper, in Portuguese
@@ -776,59 +861,72 @@
   fav: true
 
 - quote: Outstanding !!! Now I can read the screens in daylight. I now can see the time alot better as well.
-  cite: Mike Leach about Pitch Black Wallpaper
+  cite: ★★★★★ Mike Leach on Google Play
   date: 2016-08-29
+  int: c
 
 - quote: Perfect! I wanted a plain black wallpaper because it makes your apps stand out more on your homescreens and this is fantastic.
-  cite: James Carothers about Pitch Black Wallpaper
+  cite: ★★★★★ James Carothers on Google Play
   date: 2016-08-26
+  int: c
 
 - quote: Looks great! Another great option for my wallpaper... thanks!
-  cite: Cecilia Pulmano about Pitch Black Wallpaper
+  cite: ★★★★★ Cecilia Pulmano on Google Play
   date: 2016-08-25
+  int: c
 
 - quote: Does its job! It's an app designed to set a black wallpaper, and does that perfectly. Just what I was looking for.
-  cite: Jose Eugenio Esteves Junior about Pitch Black Wallpaper
+  cite: ★★★★★ Jose Eugenio Esteves Junior on Google Play
   date: 2016-08-23
+  int: c
 
 - quote: It does what it should do easy, fast and simple. Just perfect.
-  cite: Alvaro de la Torre about Pitch Black Wallpaper
+  cite: ★★★★★ Alvaro de la Torre on Google Play
   date: 2016-08-19
+  int: c
 
 - quote: Great! Does exactly what it says! Doesn't get any easier than this!
-  cite: Pete Bellanger Jr about Pitch Black Wallpaper
+  cite: ★★★★★ Pete Bellanger Jr on Google Play
   date: 2016-08-19
+  int: c
 
 - quote: BEST BLACK WALLPAPER EVER!!!!!!!! <i data-emoji>🙌☺😊😀😁</i>
-  cite: Rashawn Hamilton about Pitch Black Wallpaper
+  cite: ★★★★★ Rashawn Hamilton on Google Play
   date: 2016-08-11
   fav: true
+  int: c
 
 - quote: I just love this black wallpaper
-  cite: Muhammad Arfan about Pitch Black Wallpaper
+  cite: ★★★★★ Muhammad Arfan on Google Play
   date: 2016-08-09
+  int: c
 
 - quote: Great! Simple app that does exactly what it says. No permissions. Seems to improve my phone's battery life, and the screen seems easier on my eyes.
-  cite: T Conklin about Pitch Black Wallpaper
+  cite: ★★★★★ T Conklin on Google Play
   date: 2016-07-09
+  int: c
 
 - quote: The pitch black wallpaper is amazing! It matches my phonecase and keyboard. I love it
-  cite: Jacob Mario about Pitch Black Wallpaper
+  cite: ★★★★★ Jacob Mario on Google Play
   date: 2016-06-27
+  int: c
 
 - quote: Simple and Effective. Does what it says. Simple to use and takes up almost no space.
-  cite: Ronnie Morgan about Pitch Black Wallpaper
+  cite: ★★★★★ Ronnie Morgan on Google Play
   date: 2016-06-22
+  int: c
 
 - quote: Truth in advertising! Simple; does what it claims.
-  cite: Robert Barus about Pitch Black Wallpaper
+  cite: ★★★★★ Robert Barus on Google Play
   date: 2016-06-18
   fav: true
+  int: c
 
 - quote: Small, perfectly black ideal well done keep up the great work
-  cite: Paul Fisher about Pitch Black Wallpaper
+  cite: ★★★★★ Paul Fisher on Google Play
   date: 2016-06-10
   fav: true
+  int: c
 
 - quote: Big favor. I've been waiting for someone to spoon-feed me. Thank you!
   cite: ★★★★★ Joe Rasid on Google Play

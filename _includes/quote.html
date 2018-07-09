@@ -1,10 +1,13 @@
 <blockquote class="tqc-quote tqc-{{ include.type }} {% if include.quote.fav %}tqc-fav{% endif %}">
     <div class="container">
-        <q>{{ include.quote.quote }}</q>
+        <q {% if include.quote.original %}title="{{ include.quote.original }}"{% endif %}>{{ include.quote.quote }}</q>
         <cite>
             <a class="tqc-link" href="{{ include.quote.url | default: include.default_url }}" target="_blank">
                 {{ include.quote.cite }}
             </a>
+            {% if include.quote.lang %}
+                , from {{ include.quote.lang }}
+            {% endif %}
         </cite>
     </div>
 </blockquote>
